@@ -6,17 +6,17 @@ I Am T7. im a programmer and game dev
 - fun fact: having friends is the main reason i have mental issues
 - Subspace Tripmine
 ## Skills & Tools
-Languages:
+### Languages:
 - Python
 - HTML5, CSS, JavaScript
 - GameMaker Language
 - Lua
 - C
-Game Engines:
+### Game Engines:
 - GameMaker
 - Roblox Studio
-Code Editors:
+### Code Editors:
 - Visual Studio Code
 - Code::Blocks
-Databases:
+### Databases:
 - Google Firebase
